@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-07-19T08:42:21.966Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="TJ3ZUgINmsRajGtjczAB" version="24.7.1" type="github">
+<mxfile host="app.diagrams.net" modified="2024-07-19T09:45:03.499Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="QGPdKleNC_6RfB4ayxJx" version="24.7.1" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="954" dy="606" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" background="#ffffff" math="0" shadow="0">
       <root>
@@ -405,7 +405,7 @@
         <mxCell id="PoZGsN97tCSHeolTGyH4-96" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="PoZGsN97tCSHeolTGyH4-97" target="PoZGsN97tCSHeolTGyH4-106">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="PoZGsN97tCSHeolTGyH4-97" value="下一步" style="whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="PoZGsN97tCSHeolTGyH4-97" value="修理厂" style="whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="810" y="947.5" width="110" height="42.5" as="geometry" />
         </mxCell>
         <mxCell id="PoZGsN97tCSHeolTGyH4-98" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="PoZGsN97tCSHeolTGyH4-99" target="PoZGsN97tCSHeolTGyH4-101">
@@ -432,17 +432,29 @@
         <mxCell id="PoZGsN97tCSHeolTGyH4-105" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="PoZGsN97tCSHeolTGyH4-106" target="PoZGsN97tCSHeolTGyH4-108">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="PoZGsN97tCSHeolTGyH4-106" value="损失项" style="whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="PoZGsN97tCSHeolTGyH4-106" value="定损工具定损" style="whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="810" y="1020" width="110" height="42.5" as="geometry" />
         </mxCell>
         <mxCell id="PoZGsN97tCSHeolTGyH4-107" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="PoZGsN97tCSHeolTGyH4-108" target="PoZGsN97tCSHeolTGyH4-109">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="PoZGsN97tCSHeolTGyH4-108" value="查勘报告" style="whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="PoZGsN97tCSHeolTGyH4-108" value="车辆定型" style="whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="810" y="1102.5" width="110" height="42.5" as="geometry" />
         </mxCell>
-        <mxCell id="PoZGsN97tCSHeolTGyH4-109" value="提交" style="whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="PoZGsN97tCSHeolTGyH4-112" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="PoZGsN97tCSHeolTGyH4-109" target="PoZGsN97tCSHeolTGyH4-111">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="PoZGsN97tCSHeolTGyH4-109" value="定损预览" style="whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="810" y="1180" width="110" height="42.5" as="geometry" />
+        </mxCell>
+        <mxCell id="PoZGsN97tCSHeolTGyH4-114" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="PoZGsN97tCSHeolTGyH4-111" target="PoZGsN97tCSHeolTGyH4-113">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="PoZGsN97tCSHeolTGyH4-111" value="估损清单" style="whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="810" y="1260" width="110" height="42.5" as="geometry" />
+        </mxCell>
+        <mxCell id="PoZGsN97tCSHeolTGyH4-113" value="提交" style="whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="810" y="1330" width="110" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
